@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Added
+.metadata
+.mxproject
+.cproject
+*.project
+.idea
+.settings
+Debug
