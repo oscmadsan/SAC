@@ -6,10 +6,6 @@
 *.ko
 *.obj
 *.elf
-*.prefs
-*.xml
-*.mk
-*.cyclo
 
 # Linker output
 *.ilk
@@ -54,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.txt
+Debug
+EWARM
+MDK-ARM
+Drivers
+.cproject
+.project
+.settings
+.mxproject
+.extSettings
+.metadata
