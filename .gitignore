@@ -51,14 +51,16 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.txt
+# Added
+.metadata
+.mxproject
+.cproject
+*.project
+.idea
+.settings
 Debug
+*.txt
 EWARM
 MDK-ARM
 Drivers
-.cproject
-.project
-.settings
-.mxproject
 .extSettings
-.metadata
