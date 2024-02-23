@@ -6,6 +6,10 @@
 *.ko
 *.obj
 *.elf
+*.prefs
+*.xml
+*.mk
+*.cyclo
 
 # Linker output
 *.ilk
@@ -50,12 +54,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# Added
-.metadata
-.mxproject
-.cproject
-*.project
-.idea
-.settings
-Debug
